@@ -81,7 +81,7 @@ S R NAGAPPA SHETTY MEMORIAL NATIONAL COLLEGE OF COMPUTER SCIENCE
 
 <p align="left">
 
-<a href="https://github.com/Meghana0713">
+<a href="https://github.com/meghanamb2004-byte/mb.git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
